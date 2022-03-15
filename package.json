@@ -1,0 +1,13 @@
+{
+  "name": "promise_workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "start:dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
